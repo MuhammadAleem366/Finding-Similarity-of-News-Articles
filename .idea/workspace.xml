@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="515ebcbf-391d-4594-8a34-264cc21b55c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TxPsAbej5DbqrEjxP9ZI5O0pgA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FinalYear" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muham\PycharmProjects\PythonProjects\template" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Flask">
+    <configuration name="Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Most Similar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Most Similar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScrapingData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapingData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Flask" />
+        <item itemvalue="Python.ScrapingData" />
+        <item itemvalue="Python.Most Similar" />
+        <item itemvalue="Python.Analysis" />
+        <item itemvalue="Python.Preprocessing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="515ebcbf-391d-4594-8a34-264cc21b55c4" name="Default Changelist" comment="" />
+      <created>1574398978805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574398978805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600402462853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="0" key="FileChooserDialogImpl.inPresentationMode" timestamp="1600367799579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="0" key="FileChooserDialogImpl.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1600367799578" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600402462853" />
+    <state width="1345" height="392" key="GridCell.Tab.0.bottom" timestamp="1600402260604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1600365169744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1600365169744" />
+    <state width="1345" height="392" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600402260604" />
+    <state width="1345" height="392" key="GridCell.Tab.0.center" timestamp="1600402260603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1600365169744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.center.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1600365169744" />
+    <state width="1345" height="392" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600402260603" />
+    <state width="1345" height="392" key="GridCell.Tab.0.left" timestamp="1600402260603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1600365169744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.left.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1600365169744" />
+    <state width="1345" height="392" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600402260603" />
+    <state width="1345" height="392" key="GridCell.Tab.0.right" timestamp="1600402260604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1600365169744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="383" key="GridCell.Tab.0.right.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1600365169744" />
+    <state width="1345" height="392" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600402260604" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1600402336215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600402336215" />
+    <state x="9" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode" timestamp="1595075564230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="9" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1595075564230" />
+  </component>
+</project>
